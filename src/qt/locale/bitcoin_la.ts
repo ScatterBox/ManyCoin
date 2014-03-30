@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About MANYoin</source>
-        <translation>Informatio de MANYoin</translation>
+        <source>About manycoin</source>
+        <translation>Informatio de manycoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;MANYoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;MANYoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;manycoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;manycoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,8 +33,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+0"/>
-        <source>The MANYoin developers</source>
-        <translation>MANYoin curatores</translation>
+        <source>The manycoin developers</source>
+        <translation>manycoin curatores</translation>
     </message>
 </context>
 <context>
@@ -66,8 +66,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your MANYoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Haec sunt inscriptiones MANYoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
+        <source>These are your manycoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Haec sunt inscriptiones manycoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a MANYoin address</source>
-        <translation>Signa nuntium ut demonstres inscriptionem MANYoin a te possessam esse</translation>
+        <source>Sign a message to prove you own a manycoin address</source>
+        <translation>Signa nuntium ut demonstres inscriptionem manycoin a te possessam esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified MANYoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione MANYoin</translation>
+        <source>Verify a message to ensure it was signed with a specified manycoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione manycoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your MANYoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your manycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hae sunt inscriptiones mittendi pensitationes.  Semper inspice quantitatem et inscriptionem accipiendi antequam nummos mittis.</translation>
     </message>
     <message>
@@ -247,7 +247,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MANYOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR manycOINS&lt;/b&gt;!</source>
         <translation>Monitio: Si cassidile tuum cifras et tesseram amittis, tu &lt;b&gt;AMITTES OMNES TUOS NUMMOS BITOS&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -274,8 +274,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-56"/>
-        <source>MANYoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your manycoins from being stolen by malware infecting your computer.</source>
-        <translation>MANYoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
+        <source>manycoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your manycoins from being stolen by malware infecting your computer.</source>
+        <translation>manycoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about MANYoin</source>
-        <translation>Monstra informationem de MANYoin</translation>
+        <source>Show information about manycoin</source>
+        <translation>Monstra informationem de manycoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a MANYoin address</source>
-        <translation>Mitte nummos ad inscriptionem MANYoin</translation>
+        <source>Send coins to a manycoin address</source>
+        <translation>Mitte nummos ad inscriptionem manycoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for MANYoin</source>
-        <translation>Muta configurationis optiones pro MANYoin</translation>
+        <source>Modify configuration options for manycoin</source>
+        <translation>Muta configurationis optiones pro manycoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>MANYoin</source>
-        <translation>MANYoin</translation>
+        <source>manycoin</source>
+        <translation>manycoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About MANYoin</source>
-        <translation>&amp;Informatio de MANYoin</translation>
+        <source>&amp;About manycoin</source>
+        <translation>&amp;Informatio de manycoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,13 +499,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your MANYoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus MANYoin ut demonstres te eas possidere</translation>
+        <source>Sign messages with your manycoin addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus manycoin ut demonstres te eas possidere</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified MANYoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus MANYoin</translation>
+        <source>Verify messages to ensure they were signed with specified manycoin addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus manycoin</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -535,13 +535,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+47"/>
-        <source>MANYoin client</source>
-        <translation>MANYoin cliens</translation>
+        <source>manycoin client</source>
+        <translation>manycoin cliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to MANYoin network</source>
-        <translation><numerusform>%n activa conexio ad rete MANYoin</numerusform><numerusform>%n activae conexiones ad rete MANYoin</numerusform></translation>
+        <source>%n active connection(s) to manycoin network</source>
+        <translation><numerusform>%n activa conexio ad rete manycoin</numerusform><numerusform>%n activae conexiones ad rete manycoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Inscriptio: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid MANYoin address or malformed URI parameters.</source>
-        <translation>URI intellegi non posse!  Huius causa possit inscriptionem MANYoin non validam aut URI parametra maleformata.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid manycoin address or malformed URI parameters.</source>
+        <translation>URI intellegi non posse!  Huius causa possit inscriptionem manycoin non validam aut URI parametra maleformata.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. MANYoin can no longer continue safely and will quit.</source>
-        <translation>Error fatalis accidit.  MANYoin nondum pergere tute potest, et exibit.</translation>
+        <source>A fatal error occurred. manycoin can no longer continue safely and will quit.</source>
+        <translation>Error fatalis accidit.  manycoin nondum pergere tute potest, et exibit.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid MANYoin address.</source>
-        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio MANYoin est.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid manycoin address.</source>
+        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio manycoin est.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Inscriptio: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>MANYoin-Qt</source>
-        <translation>MANYoin-Qt</translation>
+        <source>manycoin-Qt</source>
+        <translation>manycoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start MANYoin after logging in to the system.</source>
-        <translation>Pelle MANYoin per se postquam in systema inire.</translation>
+        <source>Automatically start manycoin after logging in to the system.</source>
+        <translation>Pelle manycoin per se postquam in systema inire.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start MANYoin on system login</source>
-        <translation>&amp;Pelle MANYoin cum inire systema</translation>
+        <source>&amp;Start manycoin on system login</source>
+        <translation>&amp;Pelle manycoin cum inire systema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the MANYoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis MANYoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the manycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis manycoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the MANYoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecte ad rete MANYoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
+        <source>Connect to the manycoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecte ad rete manycoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting MANYoin.</source>
-        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam MANYoin iterum initiatum erit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting manycoin.</source>
+        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam manycoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show MANYoin addresses in the transaction list or not.</source>
-        <translation>Num monstrare inscriptiones MANYoin in enumeratione transactionum.</translation>
+        <source>Whether to show manycoin addresses in the transaction list or not.</source>
+        <translation>Num monstrare inscriptiones manycoin in enumeratione transactionum.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Inscriptio: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting MANYoin.</source>
-        <translation>Haec configuratio effectiva erit postquam MANYoin iterum initiatum erit.</translation>
+        <source>This setting will take effect after restarting manycoin.</source>
+        <translation>Haec configuratio effectiva erit postquam manycoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Inscriptio: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MANYoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete MANYoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the manycoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete manycoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,7 +1069,7 @@ Inscriptio: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start manycoin: click-to-pay handler</source>
-        <translation>MANYoin incipere non potest: cliccare-ad-pensandum handler</translation>
+        <translation>manycoin incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the MANYoin-Qt help message to get a list with possible MANYoin command-line options.</source>
-        <translation>Monstra nuntium auxilii MANYoin-Qt ut videas enumerationem possibilium optionum MANYoin mandati initiantis.</translation>
+        <source>Show the manycoin-Qt help message to get a list with possible manycoin command-line options.</source>
+        <translation>Monstra nuntium auxilii manycoin-Qt ut videas enumerationem possibilium optionum manycoin mandati initiantis.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>MANYoin - Debug window</source>
-        <translation>MANYoin - Fenestra debug</translation>
+        <source>manycoin - Debug window</source>
+        <translation>manycoin - Fenestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>MANYoin Core</source>
-        <translation>MANYoin Nucleus</translation>
+        <source>manycoin Core</source>
+        <translation>manycoin Nucleus</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the MANYoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Aperi plicam catalogi de MANYoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
+        <source>Open the manycoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Aperi plicam catalogi de manycoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the MANYoin RPC console.</source>
-        <translation>Bene ventio in terminale RPC de MANYoin.</translation>
+        <source>Welcome to the manycoin RPC console.</source>
+        <translation>Bene ventio in terminale RPC de manycoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a MANYoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insero inscriptionem MANYoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a manycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Insero inscriptionem manycoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this MANYoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem MANYoin a te possessa esse</translation>
+        <source>Sign the message to prove you own this manycoin address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem manycoin a te possessa esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified MANYoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione MANYoin</translation>
+        <source>Verify the message to ensure it was signed with the specified manycoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione manycoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Inscriptio: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a MANYoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insere inscriptionem MANYoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a manycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Insere inscriptionem manycoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter MANYoin signature</source>
-        <translation>Insere signationem MANYoin</translation>
+        <source>Enter manycoin signature</source>
+        <translation>Insere signationem manycoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,8 +1648,8 @@ Inscriptio: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The MANYoin developers</source>
-        <translation>MANYoin curatores</translation>
+        <source>The manycoin developers</source>
+        <translation>manycoin curatores</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2186,8 +2186,8 @@ Inscriptio: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>MANYoin version</source>
-        <translation>Versio de MANYoin</translation>
+        <source>manycoin version</source>
+        <translation>Versio de manycoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2305,7 +2305,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;MANYoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;manycoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, necesse est te rpcpassword constituere in plica configurationis:
 %s
@@ -2316,7 +2316,7 @@ rpcpassword=%s
 Nomen usoris et tessera eadem esse NON POSSUNT.
 Si plica non existit, eam crea cum permissionibus ut eius dominus tantum sinitur id legere.
 Quoque hortatur alertnotify constituere ut tu notificetur de problematibus;
-exempli gratia: alertnotify=echo %%s | mail -s &quot;MANYoin Notificatio&quot; admin@foo.com
+exempli gratia: alertnotify=echo %%s | mail -s &quot;manycoin Notificatio&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;MANYoin Notificatio&quot; a
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. MANYoin is probably already running.</source>
-        <translation>Non posse serare datorum indicem %s.  MANYoin probabiliter iam operatur.</translation>
+        <source>Cannot obtain a lock on data directory %s. manycoin is probably already running.</source>
+        <translation>Non posse serare datorum indicem %s.  manycoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;MANYoin Notificatio&quot; a
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong MANYoin will not work properly.</source>
-        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, MANYoin non proprie fungetur.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong manycoin will not work properly.</source>
+        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, manycoin non proprie fungetur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;MANYoin Notificatio&quot; a
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the MANYoin Wiki for SSL setup instructions)</source>
-        <translation>Optiones SSL: (vide vici de MANYoin pro instructionibus SSL configurationis)</translation>
+        <source>SSL options: (see the manycoin Wiki for SSL setup instructions)</source>
+        <translation>Optiones SSL: (vide vici de manycoin pro instructionibus SSL configurationis)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;MANYoin Notificatio&quot; a
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of MANYoin</source>
-        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio MANYoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of manycoin</source>
+        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio manycoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart MANYoin to complete</source>
-        <translation>Cassidili necesse erat rescribi: Repelle MANYoin ut compleas</translation>
+        <source>Wallet needed to be rewritten: restart manycoin to complete</source>
+        <translation>Cassidili necesse erat rescribi: Repelle manycoin ut compleas</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;MANYoin Notificatio&quot; a
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. MANYoin is probably already running.</source>
-        <translation>Non posse conglutinare ad %s in hoc cumputatro.  MANYoin probabiliter iam operatur.</translation>
+        <source>Unable to bind to %s on this computer. manycoin is probably already running.</source>
+        <translation>Non posse conglutinare ad %s in hoc cumputatro.  manycoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+64"/>

@@ -1,9 +1,9 @@
-Building MANYoin
+Building manycoin
 
-See doc/readme-qt.rst for instructions on building MANYoin-Qt,
+See doc/readme-qt.rst for instructions on building manycoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of MANYoin.
+implementation of manycoin.
 
 See doc/build-*.txt for instructions on building manycoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of MANYoin.
+implementation of manycoin.

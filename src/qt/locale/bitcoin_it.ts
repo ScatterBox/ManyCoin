@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About MANYoin</source>
-        <translation>Info su MANYoin</translation>
+        <source>About manycoin</source>
+        <translation>Info su manycoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;MANYoin&lt;/b&gt; version</source>
-        <translation>Versione di &lt;b&gt;MANYoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;manycoin&lt;/b&gt; version</source>
+        <translation>Versione di &lt;b&gt;manycoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+0"/>
-        <source>The MANYoin developers</source>
-        <translation>Sviluppatori di MANYoin</translation>
+        <source>The manycoin developers</source>
+        <translation>Sviluppatori di manycoin</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your MANYoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Questi sono i tuoi indirizzi MANYoin per ricevere pagamenti. Potrai darne uno diverso ad ognuno per tenere così traccia di chi ti sta pagando.</translation>
+        <source>These are your manycoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Questi sono i tuoi indirizzi manycoin per ricevere pagamenti. Potrai darne uno diverso ad ognuno per tenere così traccia di chi ti sta pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a MANYoin address</source>
+        <source>Sign a message to prove you own a manycoin address</source>
         <translation>Firma un messaggio per dimostrare di possedere questo indirizzo</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified MANYoin address</source>
-        <translation>Verifica un messaggio per accertarsi che sia firmato con un indirizzo MANYoin specifico</translation>
+        <source>Verify a message to ensure it was signed with a specified manycoin address</source>
+        <translation>Verifica un messaggio per accertarsi che sia firmato con un indirizzo manycoin specifico</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,7 +122,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your MANYoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your manycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -138,7 +138,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Invia &amp;MANYoin</translation>
+        <translation>Invia &amp;manycoin</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -248,8 +248,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MANYOINS&lt;/b&gt;!</source>
-        <translation>Attenzione: se si cifra il portamonete e si perde la frase d&apos;ordine, &lt;b&gt;SI PERDERANNO TUTTI I PROPRI MANYOIN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR manycOINS&lt;/b&gt;!</source>
+        <translation>Attenzione: se si cifra il portamonete e si perde la frase d&apos;ordine, &lt;b&gt;SI PERDERANNO TUTTI I PROPRI manycOIN&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +275,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-56"/>
-        <source>MANYoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your manycoins from being stolen by malware infecting your computer.</source>
-        <translation>MANYoin verrà ora chiuso per finire il processo di crittazione. Ricorda che criptare il tuo portamonete non può fornire una protezione totale contro furti causati da malware che dovessero infettare il tuo computer.</translation>
+        <source>manycoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your manycoins from being stolen by malware infecting your computer.</source>
+        <translation>manycoin verrà ora chiuso per finire il processo di crittazione. Ricorda che criptare il tuo portamonete non può fornire una protezione totale contro furti causati da malware che dovessero infettare il tuo computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about MANYoin</source>
-        <translation>Mostra informazioni su MANYoin</translation>
+        <source>Show information about manycoin</source>
+        <translation>Mostra informazioni su manycoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,12 +419,12 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a MANYoin address</source>
+        <source>Send coins to a manycoin address</source>
         <translation>Invia monete ad un indirizzo manycoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for MANYoin</source>
+        <source>Modify configuration options for manycoin</source>
         <translation>Modifica configurazione opzioni per manycoin</translation>
     </message>
     <message>
@@ -455,8 +455,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>MANYoin</source>
-        <translation>MANYoin</translation>
+        <source>manycoin</source>
+        <translation>manycoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About MANYoin</source>
-        <translation>&amp;Info su MANYoin</translation>
+        <source>&amp;About manycoin</source>
+        <translation>&amp;Info su manycoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your MANYoin addresses to prove you own them</source>
-        <translation>Firma i messaggi con il tuo indirizzo MANYoin per dimostrare di possederli</translation>
+        <source>Sign messages with your manycoin addresses to prove you own them</source>
+        <translation>Firma i messaggi con il tuo indirizzo manycoin per dimostrare di possederli</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified MANYoin addresses</source>
-        <translation>Verifica i messaggi per accertarsi che siano stati firmati con gli indirizzi MANYoin specificati</translation>
+        <source>Verify messages to ensure they were signed with specified manycoin addresses</source>
+        <translation>Verifica i messaggi per accertarsi che siano stati firmati con gli indirizzi manycoin specificati</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+47"/>
-        <source>MANYoin client</source>
-        <translation>MANYoin client</translation>
+        <source>manycoin client</source>
+        <translation>manycoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to MANYoin network</source>
-        <translation><numerusform>%n connessione attiva alla rete MANYoin</numerusform><numerusform>%n connessioni attive alla rete MANYoin</numerusform></translation>
+        <source>%n active connection(s) to manycoin network</source>
+        <translation><numerusform>%n connessione attiva alla rete manycoin</numerusform><numerusform>%n connessioni attive alla rete manycoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,8 +657,8 @@ Indirizzo: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid MANYoin address or malformed URI parameters.</source>
-        <translation>Impossibile interpretare l&apos;URI! Ciò può essere causato da un indirizzo MANYoin invalido o da parametri URI non corretti.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid manycoin address or malformed URI parameters.</source>
+        <translation>Impossibile interpretare l&apos;URI! Ciò può essere causato da un indirizzo manycoin invalido o da parametri URI non corretti.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -672,8 +672,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. MANYoin can no longer continue safely and will quit.</source>
-        <translation>Riscontrato un errore irreversibile. MANYoin non può più continuare in sicurezza e verrà terminato.</translation>
+        <source>A fatal error occurred. manycoin can no longer continue safely and will quit.</source>
+        <translation>Riscontrato un errore irreversibile. manycoin non può più continuare in sicurezza e verrà terminato.</translation>
     </message>
 </context>
 <context>
@@ -738,7 +738,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid MANYoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid manycoin address.</source>
         <translation>L&apos;indirizzo inserito &quot;%1&quot; non è un indirizzo manycoin valido.</translation>
     </message>
     <message>
@@ -757,8 +757,8 @@ Indirizzo: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>MANYoin-Qt</source>
-        <translation>MANYoin-Qt</translation>
+        <source>manycoin-Qt</source>
+        <translation>manycoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -821,13 +821,13 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start MANYoin after logging in to the system.</source>
-        <translation>Avvia automaticamente MANYoin all&apos;accensione del computer</translation>
+        <source>Automatically start manycoin after logging in to the system.</source>
+        <translation>Avvia automaticamente manycoin all&apos;accensione del computer</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start MANYoin on system login</source>
-        <translation>&amp;Fai partire MANYoin all&apos;avvio del sistema</translation>
+        <source>&amp;Start manycoin on system login</source>
+        <translation>&amp;Fai partire manycoin all&apos;avvio del sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -846,8 +846,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the MANYoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Apri automaticamente la porta del client MANYoin sul router. Questo funziona solo se il router supporta UPnP ed è abilitato.</translation>
+        <source>Automatically open the manycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Apri automaticamente la porta del client manycoin sul router. Questo funziona solo se il router supporta UPnP ed è abilitato.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -856,7 +856,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the MANYoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the manycoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Connettiti alla rete Bitcon attraverso un proxy SOCKS (ad esempio quando ci si collega via Tor)</translation>
     </message>
     <message>
@@ -931,8 +931,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting MANYoin.</source>
-        <translation>La lingua dell&apos;interfaccia utente può essere impostata qui. L&apos;impostazione avrà effetto dopo il riavvio di MANYoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting manycoin.</source>
+        <translation>La lingua dell&apos;interfaccia utente può essere impostata qui. L&apos;impostazione avrà effetto dopo il riavvio di manycoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -946,8 +946,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show MANYoin addresses in the transaction list or not.</source>
-        <translation>Se mostrare l&apos;indirizzo MANYoin nella transazione o meno.</translation>
+        <source>Whether to show manycoin addresses in the transaction list or not.</source>
+        <translation>Se mostrare l&apos;indirizzo manycoin nella transazione o meno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -998,8 +998,8 @@ Indirizzo: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting MANYoin.</source>
-        <translation>L&apos;impostazione avrà effetto dopo il riavvio di MANYoin.</translation>
+        <source>This setting will take effect after restarting manycoin.</source>
+        <translation>L&apos;impostazione avrà effetto dopo il riavvio di manycoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1017,8 +1017,8 @@ Indirizzo: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MANYoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Le informazioni visualizzate sono datate. Il tuo partafogli verrà sincronizzato automaticamente con il network MANYoin dopo che la connessione è stabilita, ma questo processo non può essere completato ora.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the manycoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Le informazioni visualizzate sono datate. Il tuo partafogli verrà sincronizzato automaticamente con il network manycoin dopo che la connessione è stabilita, ma questo processo non può essere completato ora.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1221,8 +1221,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the MANYoin-Qt help message to get a list with possible MANYoin command-line options.</source>
-        <translation>Mostra il messaggio di aiuto di MANYoin-QT per avere la lista di tutte le opzioni della riga di comando di MANYoin.</translation>
+        <source>Show the manycoin-Qt help message to get a list with possible manycoin command-line options.</source>
+        <translation>Mostra il messaggio di aiuto di manycoin-QT per avere la lista di tutte le opzioni della riga di comando di manycoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1241,12 +1241,12 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>MANYoin - Debug window</source>
-        <translation>MANYoin - Finestra debug</translation>
+        <source>manycoin - Debug window</source>
+        <translation>manycoin - Finestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>MANYoin Core</source>
+        <source>manycoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1256,8 +1256,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the MANYoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Apri il file di log del debug di MANYoin dalla cartella attuale. Può richiedere alcuni secondi per file di log grandi.</translation>
+        <source>Open the manycoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Apri il file di log del debug di manycoin dalla cartella attuale. Può richiedere alcuni secondi per file di log grandi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1266,8 +1266,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the MANYoin RPC console.</source>
-        <translation>Benvenuto nella console RPC di MANYoin</translation>
+        <source>Welcome to the manycoin RPC console.</source>
+        <translation>Benvenuto nella console RPC di manycoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1292,7 +1292,7 @@ Indirizzo: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Spedisci MANYoin</translation>
+        <translation>Spedisci manycoin</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1450,8 +1450,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a MANYoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Inserisci un indirizzo MANYoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a manycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Inserisci un indirizzo manycoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1474,7 +1474,7 @@ Indirizzo: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Inserisci un indirizzo MANYoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Inserisci un indirizzo manycoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1515,7 +1515,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this MANYoin address</source>
+        <source>Sign the message to prove you own this manycoin address</source>
         <translation>Firma un messaggio per dimostrare di possedere questo indirizzo</translation>
     </message>
     <message>
@@ -1547,12 +1547,12 @@ Indirizzo: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Inserisci un indirizzo MANYoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Inserisci un indirizzo manycoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified MANYoin address</source>
-        <translation>Verifica il messaggio per assicurarsi che sia stato firmato con l&apos;indirizzo MANYoin specificato</translation>
+        <source>Verify the message to ensure it was signed with the specified manycoin address</source>
+        <translation>Verifica il messaggio per assicurarsi che sia stato firmato con l&apos;indirizzo manycoin specificato</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1567,8 +1567,8 @@ Indirizzo: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a MANYoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Inserisci un indirizzo MANYoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a manycoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Inserisci un indirizzo manycoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1577,8 +1577,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter MANYoin signature</source>
-        <translation>Inserisci firma MANYoin</translation>
+        <source>Enter manycoin signature</source>
+        <translation>Inserisci firma manycoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1651,8 +1651,8 @@ Indirizzo: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The MANYoin developers</source>
-        <translation>Sviluppatori di MANYoin</translation>
+        <source>The manycoin developers</source>
+        <translation>Sviluppatori di manycoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2139,7 +2139,7 @@ Indirizzo: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Spedisci MANYoin</translation>
+        <translation>Spedisci manycoin</translation>
     </message>
 </context>
 <context>
@@ -2189,8 +2189,8 @@ Indirizzo: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>MANYoin version</source>
-        <translation>Versione di MANYoin</translation>
+        <source>manycoin version</source>
+        <translation>Versione di manycoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2318,7 +2318,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;MANYoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;manycoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2334,8 +2334,8 @@ for example: alertnotify=echo %%s | mail -s &quot;MANYoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. MANYoin is probably already running.</source>
-        <translation>Non è possibile ottenere i dati sulla cartella %s. Probabilmente MANYoin è già in esecuzione.</translation>
+        <source>Cannot obtain a lock on data directory %s. manycoin is probably already running.</source>
+        <translation>Non è possibile ottenere i dati sulla cartella %s. Probabilmente manycoin è già in esecuzione.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2379,8 +2379,8 @@ for example: alertnotify=echo %%s | mail -s &quot;MANYoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong MANYoin will not work properly.</source>
-        <translation>Attenzione: si prega di controllare che la data del computer e l&apos;ora siano corrette. Se il vostro orologio è sbagliato MANYoin non funziona correttamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong manycoin will not work properly.</source>
+        <translation>Attenzione: si prega di controllare che la data del computer e l&apos;ora siano corrette. Se il vostro orologio è sbagliato manycoin non funziona correttamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2629,8 +2629,8 @@ for example: alertnotify=echo %%s | mail -s &quot;MANYoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the MANYoin Wiki for SSL setup instructions)</source>
-        <translation>Opzioni SSL: (vedi il wiki di MANYoin per le istruzioni di configurazione SSL)</translation>
+        <source>SSL options: (see the manycoin Wiki for SSL setup instructions)</source>
+        <translation>Opzioni SSL: (vedi il wiki di manycoin per le istruzioni di configurazione SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2831,13 +2831,13 @@ for example: alertnotify=echo %%s | mail -s &quot;MANYoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of MANYoin</source>
-        <translation>Errore caricamento wallet.dat: il wallet richiede una versione nuova di MANYoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of manycoin</source>
+        <translation>Errore caricamento wallet.dat: il wallet richiede una versione nuova di manycoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart MANYoin to complete</source>
-        <translation>Il portamonete deve essere riscritto: riavviare MANYoin per completare</translation>
+        <source>Wallet needed to be rewritten: restart manycoin to complete</source>
+        <translation>Il portamonete deve essere riscritto: riavviare manycoin per completare</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2896,8 +2896,8 @@ for example: alertnotify=echo %%s | mail -s &quot;MANYoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. MANYoin is probably already running.</source>
-        <translation>Impossibile collegarsi alla %s su questo computer. Probabilmente MANYoin è già in esecuzione.</translation>
+        <source>Unable to bind to %s on this computer. manycoin is probably already running.</source>
+        <translation>Impossibile collegarsi alla %s su questo computer. Probabilmente manycoin è già in esecuzione.</translation>
     </message>
     <message>
         <location line="+64"/>

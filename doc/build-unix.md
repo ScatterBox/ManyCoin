@@ -14,7 +14,7 @@ To Build
 	cd src/
 	make -f makefile.unix		# Headless manycoin
 
-See readme-qt.rst for instructions on building MANYoin-Qt, the graphical user interface.
+See readme-qt.rst for instructions on building manycoin-Qt, the graphical user interface.
 
 Dependencies
 ---------------------

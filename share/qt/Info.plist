@@ -15,16 +15,16 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>MANYoin-Qt</string>
+	<string>manycoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.manycoin.MANYoin-Qt</string>
+	<string>org.manycoin.manycoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.manycoin.MANYoinPayment</string>
+            <string>org.manycoin.manycoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
               <string>manycoin</string>

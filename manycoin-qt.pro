@@ -1,6 +1,6 @@
 TEMPLATE = app
 TARGET = manycoin-qt
-macx:TARGET = "MANYoin-Qt"
+macx:TARGET = "manycoin-Qt"
 VERSION = 0.8.6.2
 INCLUDEPATH += src src/json src/qt
 QT += core gui network

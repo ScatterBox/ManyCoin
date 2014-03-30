@@ -1,4 +1,4 @@
-MANYoin has been successfully built from this package.
+manycoin has been successfully built from this package.
 
 On linux, a Gentoo distribution was used.  Key packages installed were:
 
